@@ -8,7 +8,7 @@ Connect your own AI agent to draft studies using your product context, compare r
 
 ## Connect over MCP
 
-Feedbaq runs a hosted MCP server:
+Feedbaq runs a free, hosted MCP server:
 
 ```text
 https://feedbaq.to/mcp
@@ -36,9 +36,7 @@ The connection works within the workspace you choose and your existing role. Age
 
 ## Pricing
 
-[$49 per month with access to all features](https://feedbaq.to/pricing). The MCP connection is included; your AI provider charges separately for its own service.
-
-See the [terms](https://feedbaq.to/terms) for billing details.
+The MCP server is free to use. For other Feedbaq plans, see [pricing](https://feedbaq.to/pricing).
 
 ## Learn more
 
@@ -46,8 +44,6 @@ See the [terms](https://feedbaq.to/terms) for billing details.
 - [Help center](https://feedbaq.to/help)
 - [MCP setup and access](https://feedbaq.to/help/mcp)
 - [Customer research guides](https://feedbaq.to/guides)
-- [Privacy policy](https://feedbaq.to/privacy)
-- [Terms](https://feedbaq.to/terms)
 - Support: [peter@feedbaq.to](mailto:peter@feedbaq.to)
 
 This repository contains documentation and examples for the hosted service.
