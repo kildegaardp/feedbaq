@@ -2,9 +2,15 @@
 
 [Feedbaq](https://feedbaq.to) turns your AI agent into a customer researcher. Hear what customers need, watch where they get stuck and understand why they leave, without arranging a call with every participant.
 
+Use the live [Feedbaq connector in Claude](https://claude.ai/directory/connectors/feedbaq), or connect your own AI agent through the free MCP server.
+
 Share a study link and collect voice, narrated screen recording, text or choice answers. AI follow-ups dig into what each person actually said. Use it to test concepts, walk through prototypes, improve onboarding and explore the reasons behind churn.
 
 Connect your own AI agent to draft studies using your product context, compare responses and pull out quotes linked to the evidence. You can also review and refine your questions in Feedbaq's web builder. Participants do not need a Feedbaq account or an installed app.
+
+## Connect in Claude
+
+Feedbaq is live in [Claude's connector directory](https://claude.ai/directory/connectors/feedbaq). Connect your Feedbaq account and choose a workspace. Claude can then build studies and analyze customer responses using the context from your conversation.
 
 ## Connect over MCP
 
